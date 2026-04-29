@@ -140,7 +140,7 @@ wireshark-homelab/
 ---
 
 ## 🚀 Viewing the Portfolio
-
+[View my html page](https://arturskaufmanis.github.io/Wireshark-packet-analysis/index.html)
 Clone the repo and open `index.html` directly in any browser — no server required.
 
 ```bash
